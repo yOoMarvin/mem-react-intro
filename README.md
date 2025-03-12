@@ -4,11 +4,12 @@ Welcome to the **Getting Started with React ** project! This project is designed
 
 ## 📂 Project Overview
 
-You'll work with **Next.js** to set up and run your Tailwind project efficiently. The exercises cover:  
-✅ Setting up your project environment
-✅ Creating a Button component and styling it
-✅ Learning the foundations of Next.js and React  
-✅ Handling states and interactivity in React
+You'll work with **Next.js** to set up and run your Tailwind project efficiently. The exercises cover:
+
+- Setting up your project environment
+- Creating a Button component and styling it
+- Learning the foundations of Next.js and React
+- Handling states and interactivity in React
 
 ## 🔧 Setup Instructions
 
