@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.btn {
+  @apply font-medium px-4 py-3 rounded-lg flex flex-row space-x-1 items-center shadow-md transition duration-400 ease-in-out hover:cursor-pointer focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-blue-600;
+}
+
+.btn--filled {
+  @apply bg-blue-500 text-white hover:bg-blue-600 hover:shadow-sm focus:bg-blue-600 focus:shadow-sm;
+}
+
+.btn--ghost {
+  @apply shadow-none bg-transparent text-blue-500 hover:text-blue-600 focus:text-blue-600 hover:bg-blue-50 focus:bg-blue-50;
+}
+
+.btn--disabled {
+  @apply bg-gray-200 text-gray-500 cursor-not-allowed hover:cursor-not-allowed shadow-none;
+}
